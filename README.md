@@ -69,6 +69,6 @@ print("----------------------------------------------------------------------")
 ```
 
 ## Output
-![image alt](
+![image alt](https://github.com/shankar-py-coder/Open-Jacson-Networks/blob/main/Screenshot%202026-03-14%20170403.png?raw=true)
 ## Result
 Thus, python simulates open Jackson to calculate queue metrices for conveyor systems.
